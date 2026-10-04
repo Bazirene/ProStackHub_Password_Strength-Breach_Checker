@@ -53,7 +53,3 @@ Observation: passwords.log is immediately sanitized into a 40-character SHA-1 ha
     • • Public GitHub Repository: ProStackHub_PasswordStrength_BreachChecker
     • • Rule & Architecture Documentation: Exported PDF detailing the k-Anonymity privacy model and Watchdog loop mitigation.
     • • Walkthrough Video: 2–3 minute technical overview published to LinkedIn tagging @ProStackHub.
-
-    • • Public GitHub Repository: ProStackHub_PasswordStrength_BreachChecker
-    • • Rule & Architecture Documentation: Exported PDF detailing the k-Anonymity privacy model and Watchdog loop mitigation.
-    • • Walkthrough Video: 2–3 minute technical overview published to LinkedIn tagging @ProStackHub.
