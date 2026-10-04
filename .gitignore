@@ -1,0 +1,35 @@
+# Environments & Secrets
+venv/
+env/
+.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local Databases & State
+*.db
+*.sqlite3
+breach_history.db
+
+# Sensitive Credential Logs
+*.log
+passwords.log
+
+# Office Temporary Locks & Helper Scripts
+~$*.mkv
+makereadme.py
+makegitignore.py
+makeProjectGuide.py
+pythonScripToWriteREADMEfile.png
+pythonScripToWriteGitignore.png
+README.docx
+task3video1.mkv
+breach_history.db
+
+
+# Editor & OS Files
+.vscode/
+.DS_Store
+Thumbs.db
